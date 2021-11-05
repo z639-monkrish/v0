@@ -10,6 +10,7 @@ MongoDB works on concept of collection and document. <br>
 •	Database: Database is a physical container for collections. Each MongoDB server has multiple databases.<br>
 •	Collection: MongoDB collection is a group of documents. It is like tables in RDBMS/SQL databases. A collection exists within single database. MongoDB is different from SQL by stating that collections do not enforce a schema.<br>
 •	Document: A document is a set of key-value pairs. Documents have dynamic schema which means that documents in the same collection do not need to have the same set of fields or structure. <br>
+
 ![Picture1.png](attachment:Picture1.png)
 
 
